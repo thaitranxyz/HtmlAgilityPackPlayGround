@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HtmlAgilityPackPlayGround", "practicenumber10000\HtmlAgilityPackPlayGround.csproj", "{7C32A221-D4ED-4463-83EE-331EF5AD9F28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C32A221-D4ED-4463-83EE-331EF5AD9F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C32A221-D4ED-4463-83EE-331EF5AD9F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C32A221-D4ED-4463-83EE-331EF5AD9F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C32A221-D4ED-4463-83EE-331EF5AD9F28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9E51012-9030-4356-821F-CB5BE5D6AC1C}
+	EndGlobalSection
+EndGlobal
